@@ -96,7 +96,7 @@ git commands (push, pull, commit -m, branch, add .)
 ```
 ## Links
 
-- Project Repository: https://github.com/owolabigrace/DevOps-Roadmap-Beginner1
+- Project page URL: https://roadmap.sh/projects/server-stats
 #Author
 owolabigrace
 
